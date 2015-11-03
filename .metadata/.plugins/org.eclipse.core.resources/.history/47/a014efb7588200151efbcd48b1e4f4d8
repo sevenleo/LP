@@ -1,0 +1,33 @@
+package object lp {
+  // defina as funções da sua resposta aqui
+  
+  def quadrado(x: Double) = x * x
+  
+  def somaDeQuadrados(x: Double, y: Double) =
+    quadrado(x) + quadrado(y)
+  
+  def loop: Double = loop
+  def primeiro(x: Double, y: => Double) = x
+  
+  def abs(x: Double) = if (x >= 0) x else -x
+  
+  def raiz(x: Double): Double = {
+    val erro = 0.0000001
+    
+    def raizIter(est: Double, x: Double): Double =
+      if (suficiente(est, x)) est else raizIter(melhora(est, x), x)
+
+    def suficiente(est: Double, x: Double) = 
+      abs(quadrado(est) - x) < erro
+
+    def melhora(est: Double, x: Double) = (est + x / est) / 2
+     
+    raizIter(1.0, x)
+  }
+  
+  def crSemestre( notas: List[(Double, Int)] ): (Double, Int) = {
+    
+  }
+  
+  
+}

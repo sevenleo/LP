@@ -1,0 +1,1428 @@
+2015-11-03 15:53:05,282  WARN [ModalContext] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 15:53:05,284  WARN [ModalContext] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 15:53:06,898  WARN [ModalContext] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 15:53:06,899  WARN [ModalContext] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 15:53:08,019  WARN [Worker-6] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 15:53:08,019  WARN [Worker-6] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 15:53:09,536  WARN [Java indexing] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 15:53:09,537  WARN [Java indexing] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 15:53:22,103  WARN [Worker-6] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 15:53:22,103  WARN [Worker-6] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 15:53:22,780  WARN [Worker-6] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 15:53:22,780  WARN [Worker-6] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 15:53:22,917  WARN [ModalContext] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 15:53:22,917  WARN [ModalContext] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 15:53:22,937  WARN [ModalContext] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 15:53:22,937  WARN [ModalContext] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 15:53:23,627  WARN [Java indexing] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 15:53:23,627  WARN [Java indexing] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 15:53:23,927  WARN [Worker-9] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 15:53:23,927  WARN [Worker-9] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 15:53:23,948  WARN [Worker-9] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 15:53:23,948  WARN [Worker-9] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 15:53:24,692  WARN [Worker-9] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 15:53:24,692  WARN [Worker-9] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 15:53:33,715  WARN [ModalContext] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 15:53:33,716  WARN [ModalContext] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 15:53:33,731  WARN [ModalContext] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 15:53:33,731  WARN [ModalContext] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 15:53:34,101  WARN [Worker-9] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 15:53:34,101  WARN [Worker-9] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 15:53:34,127  WARN [Worker-9] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 15:53:34,127  WARN [Worker-9] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 15:53:34,421  WARN [Java indexing] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 15:53:34,421  WARN [Java indexing] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 15:53:34,992  WARN [Worker-9] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 15:53:34,993  WARN [Worker-9] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 15:53:57,920  WARN [Worker-2] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 15:53:57,920  WARN [Worker-2] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 15:53:58,039  WARN [Worker-9] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 15:53:58,039  WARN [Worker-9] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 15:53:58,068  WARN [Worker-9] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 15:53:58,068  WARN [Worker-9] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 15:53:58,409  WARN [Worker-9] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 15:53:58,409  WARN [Worker-9] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 15:54:10,627  WARN [Worker-7] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 15:54:10,627  WARN [Worker-7] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 15:54:10,796  WARN [Worker-10] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 15:54:10,796  WARN [Worker-10] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 15:54:10,824  WARN [Worker-10] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 15:54:10,824  WARN [Worker-10] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 15:54:11,379  WARN [Worker-10] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 15:54:11,379  WARN [Worker-10] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 15:54:22,887  WARN [Worker-9] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 15:54:22,887  WARN [Worker-9] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 15:54:23,008  WARN [Worker-7] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 15:54:23,008  WARN [Worker-7] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 15:54:23,031  WARN [Worker-7] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 15:54:23,031  WARN [Worker-7] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 15:54:23,760  WARN [Worker-7] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 15:54:23,760  WARN [Worker-7] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 15:54:29,437  WARN [main] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 15:54:29,437  WARN [main] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 15:54:48,692  WARN [ModalContext] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 15:54:48,693  WARN [ModalContext] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 15:54:48,706  WARN [ModalContext] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 15:54:48,706  WARN [ModalContext] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 15:54:49,121  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 15:54:49,121  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 15:54:49,142  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 15:54:49,143  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 15:54:49,517  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 15:54:49,517  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 15:54:50,052  WARN [Java indexing] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 15:54:50,052  WARN [Java indexing] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:17:31,259  WARN [main] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 16:17:31,262  WARN [main] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 16:21:37,722  WARN [Text Viewer Hover Presenter] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 16:21:37,722  WARN [Text Viewer Hover Presenter] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 16:21:46,470  WARN [Worker-18] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 16:21:46,470  WARN [Worker-18] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 16:21:46,493  WARN [Worker-18] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 16:21:46,493  WARN [Worker-18] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 16:21:46,865  WARN [Worker-18] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 16:21:46,865  WARN [Worker-18] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 16:22:11,574  WARN [main] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:22:11,574  WARN [main] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:23:52,249  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:23:52,249  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:23:52,263  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:23:52,264  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:23:52,691  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:23:52,691  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:24:49,407  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:24:49,408  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:24:49,419  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:24:49,420  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:24:49,803  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:24:49,803  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:25:06,510  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:25:06,511  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:25:06,553  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:25:06,553  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:25:31,696  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:25:31,696  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:25:31,708  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:25:31,708  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:25:43,450  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:25:43,450  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:25:43,461  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:25:43,461  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:25:43,839  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:25:43,839  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:26:08,039 ERROR [Worker-18] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-11-03 16:26:08,039 ERROR [Worker-18] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-11-03 16:26:08,039 ERROR [Worker-18] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-11-03 16:26:35,137  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:26:35,138  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:26:35,150  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:26:35,150  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:26:35,517  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:26:35,517  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:27:44,992  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:27:44,992  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:27:45,002  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:27:45,003  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:27:45,381  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:27:45,381  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:28:08,220  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:28:08,220  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:28:08,230  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:28:08,230  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:28:46,081  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:28:46,082  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:28:46,092  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:28:46,092  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:28:56,714  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:28:56,714  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:28:56,724  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:28:56,725  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:38:19,065  WARN [main] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 16:38:19,066  WARN [main] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 16:38:26,217  WARN [main] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 16:38:26,218  WARN [main] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 16:38:33,734  WARN [main] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 16:38:33,734  WARN [main] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 16:39:24,593  WARN [Worker-25] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:39:24,593  WARN [Worker-25] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:39:24,603  WARN [Worker-25] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:39:24,603  WARN [Worker-25] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:39:25,607  WARN [Worker-25] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:39:25,607  WARN [Worker-25] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:40:21,009  WARN [Worker-25] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:40:21,009  WARN [Worker-25] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:40:21,020  WARN [Worker-25] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:40:21,021  WARN [Worker-25] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:40:21,740  WARN [Worker-25] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:40:21,740  WARN [Worker-25] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:40:47,765  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:40:47,766  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:40:47,777  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:40:47,777  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:40:48,125  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:40:48,125  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:57:46,065 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 16:57:46,066 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 16:57:46,066 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 16:57:50,128  WARN [Worker-36] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:57:50,128  WARN [Worker-36] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:57:50,149  WARN [Worker-36] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:57:50,149  WARN [Worker-36] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:57:51,222  WARN [Worker-36] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:57:51,222  WARN [Worker-36] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:58:29,467  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:58:29,467  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:58:29,477  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:58:29,477  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:58:29,844  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:58:29,844  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:59:12,605  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:59:12,606  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:59:12,615  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:59:12,615  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 16:59:12,952  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 16:59:12,952  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:00:11,889  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:00:11,889  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:00:11,899  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:00:11,899  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:00:12,236  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:00:12,236  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:00:13,575  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:00:13,575  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:00:13,586  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:00:13,586  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:00:14,579  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:00:14,579  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:00:22,515  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:00:22,516  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:00:22,525  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:00:22,525  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:00:22,860  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:00:22,860  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:00:39,353  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:00:39,354  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:00:39,363  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:00:39,363  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:00:39,812  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:00:39,812  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:01:30,518  WARN [Worker-35] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:01:30,518  WARN [Worker-35] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:01:30,530  WARN [Worker-35] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:01:30,530  WARN [Worker-35] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:01:31,239  WARN [Worker-35] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:01:31,239  WARN [Worker-35] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:01:58,941  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:01:58,942  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:01:58,952  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:01:58,953  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:01:59,630  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:01:59,630  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:02:26,793  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:02:26,793  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:02:26,803  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:02:26,804  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:05:10,070  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:05:10,070  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:05:10,081  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:05:10,081  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:05:28,481  WARN [Worker-40] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:05:28,481  WARN [Worker-40] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:05:28,491  WARN [Worker-40] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:05:28,491  WARN [Worker-40] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:05:29,221  WARN [Worker-40] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:05:29,221  WARN [Worker-40] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:05:35,561  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:05:35,561  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:05:35,570  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:05:35,570  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:05:36,225  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:05:36,225  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:06:07,482  WARN [Worker-39] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:06:07,482  WARN [Worker-39] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:06:07,492  WARN [Worker-39] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:06:07,492  WARN [Worker-39] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:06:07,834  WARN [Worker-39] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:06:07,835  WARN [Worker-39] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:06:59,977  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:06:59,977  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:06:59,986  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:06:59,987  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:07:00,646  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:07:00,646  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:07:22,019  WARN [Worker-39] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:07:22,019  WARN [Worker-39] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:07:22,029  WARN [Worker-39] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:07:22,029  WARN [Worker-39] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:07:22,362  WARN [Worker-39] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:07:22,362  WARN [Worker-39] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:08:07,492  WARN [Worker-41] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:08:07,493  WARN [Worker-41] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:08:07,503  WARN [Worker-41] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:08:07,503  WARN [Worker-41] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:08:08,152  WARN [Worker-41] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:08:08,152  WARN [Worker-41] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:08:18,521  WARN [Worker-41] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:08:18,521  WARN [Worker-41] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:08:18,532  WARN [Worker-41] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:08:18,532  WARN [Worker-41] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:08:19,208  WARN [Worker-41] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:08:19,208  WARN [Worker-41] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:09:32,558  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:09:32,559  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:09:32,567  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:09:32,568  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:09:33,211  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:09:33,211  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:10:21,210  WARN [Worker-42] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:10:21,211  WARN [Worker-42] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:10:21,221  WARN [Worker-42] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:10:21,221  WARN [Worker-42] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:10:21,887  WARN [Worker-42] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:10:21,887  WARN [Worker-42] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:18:42,957  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:18:42,957  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:18:42,966  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:18:42,966  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:18:43,601  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:18:43,601  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:19:03,292  WARN [Worker-46] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:19:03,292  WARN [Worker-46] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:19:03,303  WARN [Worker-46] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:19:03,303  WARN [Worker-46] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:19:03,949  WARN [Worker-46] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:19:03,949  WARN [Worker-46] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:19:45,230  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:19:45,231  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:19:45,240  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:19:45,241  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:19:45,567  WARN [Worker-38] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:19:45,568  WARN [Worker-38] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:20:19,047  WARN [Worker-44] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:20:19,047  WARN [Worker-44] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:20:19,058  WARN [Worker-44] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:20:19,058  WARN [Worker-44] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:20:19,389  WARN [Worker-44] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:20:19,390  WARN [Worker-44] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:20:39,398  WARN [Worker-44] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:20:39,398  WARN [Worker-44] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:20:39,409  WARN [Worker-44] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:20:39,409  WARN [Worker-44] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:20:40,109  WARN [Worker-44] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:20:40,110  WARN [Worker-44] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:21:06,556  WARN [Worker-46] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:21:06,556  WARN [Worker-46] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:21:06,566  WARN [Worker-46] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:21:06,567  WARN [Worker-46] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:21:06,901  WARN [Worker-46] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:21:06,902  WARN [Worker-46] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:21:22,326  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:21:22,327  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:21:22,337  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:21:22,337  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:21:22,687  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:21:22,687  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:21:46,022  WARN [Worker-45] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:21:46,022  WARN [Worker-45] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:21:46,033  WARN [Worker-45] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:21:46,033  WARN [Worker-45] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:21:46,369  WARN [Worker-45] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:21:46,369  WARN [Worker-45] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:25:02,438  WARN [Worker-46] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:25:02,439  WARN [Worker-46] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:25:02,447  WARN [Worker-46] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:25:02,447  WARN [Worker-46] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:25:03,085  WARN [Worker-46] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:25:03,085  WARN [Worker-46] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:25:04,350  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:25:04,350  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:25:04,361  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:25:04,361  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:25:04,697  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:25:04,697  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:25:57,900  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:25:57,900  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:25:57,909  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:25:57,909  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 17:25:58,226  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 17:25:58,226  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:15:56,661  WARN [Worker-1] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 18:15:56,689  WARN [Worker-1] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 18:15:57,619  WARN [Worker-1] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 18:15:57,619  WARN [Worker-1] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 18:15:57,703  WARN [Worker-1] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 18:15:57,703  WARN [Worker-1] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 18:15:58,094  WARN [Worker-1] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 18:15:58,094  WARN [Worker-1] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 18:15:58,345  WARN [Worker-1] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 18:15:58,346  WARN [Worker-1] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 18:15:58,768  WARN [Worker-2] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 18:15:58,768  WARN [Worker-2] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 18:15:58,820  WARN [Worker-2] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 18:15:58,820  WARN [Worker-2] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 18:15:58,830  WARN [Worker-2] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 18:15:58,830  WARN [Worker-2] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 18:15:58,853  WARN [Worker-2] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 18:15:58,854  WARN [Worker-2] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 18:15:58,915  WARN [Worker-2] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 18:15:58,916  WARN [Worker-2] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 18:15:58,959  WARN [Worker-2] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 18:15:58,959  WARN [Worker-2] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 18:15:58,990  WARN [Worker-2] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 18:15:58,991  WARN [Worker-2] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 18:15:58,999  WARN [Worker-2] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 18:15:58,999  WARN [Worker-2] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 18:15:59,018  WARN [Worker-2] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 18:15:59,018  WARN [Worker-2] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 18:15:59,088  WARN [Worker-2] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 18:15:59,089  WARN [Worker-2] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 18:15:59,141  WARN [Worker-2] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:15:59,141  WARN [Worker-2] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:15:59,166  WARN [Worker-2] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:15:59,166  WARN [Worker-2] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:15:59,174  WARN [Worker-2] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:15:59,174  WARN [Worker-2] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:15:59,192  WARN [Worker-2] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:15:59,192  WARN [Worker-2] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:15:59,265  WARN [Worker-2] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:15:59,265  WARN [Worker-2] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:15:59,744  WARN [main] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:15:59,745  WARN [main] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:17:01,425  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:17:01,425  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:17:01,441  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:17:01,441  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:17:06,553  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:17:06,553  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:17:30,293  WARN [Worker-2] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:17:30,293  WARN [Worker-2] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:17:30,315  WARN [Worker-2] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:17:30,316  WARN [Worker-2] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:17:31,881  WARN [Worker-2] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:17:31,882  WARN [Worker-2] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:22:10,829  WARN [Worker-6] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:22:10,829  WARN [Worker-6] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:22:10,843  WARN [Worker-6] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:22:10,843  WARN [Worker-6] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:24:51,552  WARN [Worker-4] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:24:51,553  WARN [Worker-4] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:24:51,567  WARN [Worker-4] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:24:51,567  WARN [Worker-4] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:30:24,797  WARN [Worker-8] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:30:24,797  WARN [Worker-8] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:30:24,805  WARN [Worker-8] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:30:24,805  WARN [Worker-8] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:33:30,464  WARN [Worker-11] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:33:30,464  WARN [Worker-11] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:33:30,479  WARN [Worker-11] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:33:30,479  WARN [Worker-11] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:33:43,379  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:33:43,379  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:33:43,392  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:33:43,392  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:33:44,863  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:33:44,863  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:33:58,816  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:33:58,816  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:33:58,830  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:33:58,830  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:33:59,945  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:33:59,945  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:34:31,026  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:34:31,026  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:34:31,043  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:34:31,043  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:34:32,183  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:34:32,183  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:34:34,433  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:34:34,433  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:34:34,447  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:34:34,447  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:34:35,426  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:34:35,426  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:34:35,827 ERROR [Worker-7] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-11-03 18:34:35,827 ERROR [Worker-7] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-11-03 18:34:35,828 ERROR [Worker-7] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-11-03 18:34:56,976  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:34:56,976  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:34:56,984  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:34:56,984  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:34:57,446  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:34:57,447  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:35:25,871  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:35:25,871  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:35:25,879  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:35:25,879  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:35:26,792  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:35:26,792  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:35:51,671  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:35:51,672  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:35:51,680  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:35:51,681  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:35:52,128  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:35:52,128  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:36:05,182  WARN [Worker-11] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:36:05,182  WARN [Worker-11] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:36:05,192  WARN [Worker-11] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:36:05,192  WARN [Worker-11] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:36:05,600  WARN [Worker-11] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:36:05,600  WARN [Worker-11] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:36:27,808  WARN [Worker-11] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:36:27,808  WARN [Worker-11] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:36:27,817  WARN [Worker-11] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:36:27,818  WARN [Worker-11] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:36:28,259  WARN [Worker-11] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:36:28,259  WARN [Worker-11] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:38:01,397  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:38:01,397  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:38:01,405  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:38:01,405  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:39:23,444 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 18:39:23,444 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 18:39:23,445 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 18:43:47,827  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:43:47,827  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:43:47,835  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:43:47,835  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:43:56,296  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:43:56,296  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:43:56,305  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:43:56,305  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:44:10,803  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:44:10,804  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:44:10,811  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:44:10,812  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:44:16,987  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:44:16,987  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:44:16,996  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:44:16,996  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:44:29,942  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:44:29,942  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:44:29,950  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:44:29,951  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:44:35,181  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:44:35,181  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:44:35,189  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:44:35,189  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:44:35,979  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:44:35,979  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:45:20,540  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:45:20,541  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:45:20,549  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:45:20,549  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:45:42,071  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:45:42,071  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:45:42,079  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:45:42,079  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:45:42,963  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:45:42,963  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:46:15,904  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:46:15,904  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:46:15,912  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:46:15,912  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:46:16,664  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:46:16,664  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:46:22,580  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:46:22,580  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:46:22,588  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:46:22,588  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:46:23,345  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:46:23,345  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:47:11,470  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:47:11,470  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:47:11,479  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:47:11,479  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:47:11,864  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:47:11,864  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:47:52,567  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:47:52,568  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:47:52,575  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:47:52,576  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:47:53,136  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:47:53,136  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:49:52,268  WARN [Worker-22] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:49:52,269  WARN [Worker-22] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:49:52,276  WARN [Worker-22] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:49:52,276  WARN [Worker-22] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:49:52,285  WARN [Worker-22] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:49:52,285  WARN [Worker-22] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:50:18,569  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:50:18,569  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:50:18,576  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:50:18,576  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:50:19,292  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:50:19,292  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:50:36,464  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:50:36,464  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:50:36,472  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:50:36,472  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:50:37,198  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:50:37,198  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:51:27,506  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:51:27,506  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:51:27,515  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:51:27,515  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:51:28,614  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:51:28,614  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:51:41,289  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:51:41,289  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:51:41,297  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:51:41,298  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:51:42,622  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:51:42,622  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:51:44,931  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:51:44,931  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:51:44,939  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:51:44,939  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 18:51:45,761  WARN [Worker-13] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 18:51:45,761  WARN [Worker-13] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:23:21,976  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:23:21,976  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:23:22,017  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:23:22,017  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:23:23,303  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:23:23,303  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:23:51,667  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:23:51,667  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:23:51,676  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:23:51,676  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:23:52,588  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:23:52,588  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:24:48,134  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:24:48,134  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:24:48,141  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:24:48,147  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:24:48,927  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:24:48,927  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:26:03,451  WARN [Worker-30] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:26:03,451  WARN [Worker-30] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:26:03,458  WARN [Worker-30] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:26:03,458  WARN [Worker-30] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:26:04,183  WARN [Worker-30] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:26:04,184  WARN [Worker-30] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:26:14,175  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:26:14,175  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:26:14,183  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:26:14,183  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:26:14,838  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:26:14,839  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:26:38,929  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:26:38,930  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:26:38,937  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:26:38,937  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:26:39,312  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:26:39,312  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:27:02,336  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:27:02,336  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:27:02,343  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:27:02,344  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:27:02,453  WARN [ForkJoinPool-2-worker-7] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 19:27:02,453  WARN [ForkJoinPool-2-worker-7] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 19:27:02,916  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:27:02,916  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:27:13,059  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:27:13,059  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:27:13,066  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:27:13,066  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:27:13,496  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:27:13,496  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:27:24,321  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:27:24,321  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:27:24,329  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:27:24,329  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:27:24,681  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:27:24,681  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:28:48,705  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:28:48,705  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:28:48,712  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:28:48,712  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:28:49,067  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:28:49,067  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:28:54,718  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:28:54,718  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:28:54,725  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:28:54,725  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:28:55,088  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:28:55,088  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:29:03,013  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:29:03,013  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:29:03,020  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:29:03,020  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:29:03,390  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:29:03,390  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:30:22,704  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:30:22,704  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:30:22,711  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:30:22,711  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:00,856  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:00,857  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:00,868  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:00,868  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:10,550  WARN [Worker-30] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:10,550  WARN [Worker-30] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:10,557  WARN [Worker-30] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:10,557  WARN [Worker-30] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:11,588  WARN [Worker-30] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:11,588  WARN [Worker-30] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:18,633  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:18,633  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:18,640  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:18,641  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:23,037  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:23,037  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:23,044  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:23,044  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:26,625  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:26,625  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:26,674  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:26,674  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:34,148  WARN [Worker-30] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:34,148  WARN [Worker-30] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:34,155  WARN [Worker-30] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:34,155  WARN [Worker-30] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:31:34,163  WARN [Worker-30] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:31:34,163  WARN [Worker-30] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:32:26,708  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:32:26,708  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:32:26,715  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:32:26,715  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:32:50,436  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:32:50,437  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:32:50,444  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:32:50,444  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:32:55,085  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:32:55,085  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:32:55,092  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:32:55,092  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:33:09,938  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:33:09,938  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:33:09,945  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:33:09,945  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:33:36,051  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:33:36,051  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:33:36,059  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:33:36,059  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:34:06,667  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:34:06,667  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:34:06,681  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:34:06,681  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:34:07,422  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:34:07,422  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:34:57,285  WARN [Worker-30] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:34:57,285  WARN [Worker-30] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:34:57,296  WARN [Worker-30] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:34:57,296  WARN [Worker-30] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:34:58,027  WARN [Worker-30] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:34:58,027  WARN [Worker-30] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:35:04,328  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 19:35:05,245  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:35:05,245  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:35:05,255  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:35:05,255  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:35:05,980  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:35:05,980  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:35:37,754  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:35:37,754  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:35:37,762  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:35:37,762  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:36:06,018  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:36:06,018  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:36:06,025  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:36:06,025  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:36:06,741  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:36:06,741  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:36:16,996  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:36:16,996  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:36:17,003  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:36:17,003  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:38:51,542 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:38:55,184  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 19:38:55,489  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 19:38:55,908  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 19:40:25,633  WARN [Worker-40] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:40:25,636  WARN [Worker-40] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:40:25,776  WARN [Worker-40] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:40:25,777  WARN [Worker-40] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:40:32,339  WARN [Worker-39] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:40:32,339  WARN [Worker-39] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:40:32,346  WARN [Worker-39] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:40:32,346  WARN [Worker-39] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:40:33,453  WARN [Worker-39] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:40:33,453  WARN [Worker-39] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:40:44,781 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,781 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,781 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,785 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,786 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,787 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,787 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,787 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,787 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,787 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,787 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,787 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,787 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,787 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,787 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,787 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,787 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,789 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,789 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,789 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:44,789 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 19:40:46,590  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:40:46,590  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:40:46,599  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:40:46,599  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:40:47,602  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:40:47,602  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:40:51,933  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:40:51,934  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:40:51,946  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:40:51,946  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:40:52,693  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:40:52,694  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:42:03,227  WARN [Worker-36] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:42:03,227  WARN [Worker-36] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:42:03,234  WARN [Worker-36] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:42:03,234  WARN [Worker-36] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:42:10,465  WARN [Worker-40] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:42:10,465  WARN [Worker-40] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:42:10,472  WARN [Worker-40] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:42:10,473  WARN [Worker-40] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:42:28,389  WARN [Worker-39] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:42:28,389  WARN [Worker-39] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:42:28,397  WARN [Worker-39] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:42:28,397  WARN [Worker-39] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:42:39,095  WARN [Worker-42] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:42:39,095  WARN [Worker-42] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:42:39,102  WARN [Worker-42] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:42:39,102  WARN [Worker-42] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:43:13,326  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:43:13,326  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:43:13,333  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:43:13,333  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:43:42,136  WARN [Worker-43] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:43:42,137  WARN [Worker-43] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:43:42,144  WARN [Worker-43] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:43:42,145  WARN [Worker-43] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 19:43:42,857  WARN [Worker-43] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 19:43:42,857  WARN [Worker-43] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:04:34,157 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:04:34,157 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:04:34,157 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:04:54,432  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:04:54,432  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:04:54,443  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:04:54,443  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:04:55,142  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:04:55,142  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:05:18,159  WARN [Worker-44] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:05:18,159  WARN [Worker-44] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:05:18,166  WARN [Worker-44] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:05:18,166  WARN [Worker-44] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:05:18,861  WARN [Worker-44] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:05:18,861  WARN [Worker-44] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:05:28,479  WARN [Worker-49] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:05:28,479  WARN [Worker-49] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:05:28,486  WARN [Worker-49] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:05:28,486  WARN [Worker-49] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:05:29,209  WARN [Worker-49] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:05:29,209  WARN [Worker-49] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:05:35,250  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:05:35,250  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:05:35,257  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:05:35,273  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:05:36,039  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:05:36,040  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:05:39,970  WARN [Worker-44] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:05:39,970  WARN [Worker-44] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:05:39,978  WARN [Worker-44] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:05:39,978  WARN [Worker-44] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:05:40,702  WARN [Worker-44] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:05:40,702  WARN [Worker-44] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:06:00,667  WARN [Worker-49] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:06:00,667  WARN [Worker-49] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:06:00,680  WARN [Worker-49] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:06:00,680  WARN [Worker-49] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:06:01,392  WARN [Worker-49] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:06:01,392  WARN [Worker-49] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:06:19,186  WARN [Worker-49] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:06:19,186  WARN [Worker-49] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:06:19,194  WARN [Worker-49] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:06:19,194  WARN [Worker-49] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:06:20,338  WARN [Worker-49] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:06:20,338  WARN [Worker-49] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:06:28,215  WARN [Worker-49] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:06:28,215  WARN [Worker-49] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:06:28,224  WARN [Worker-49] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:06:28,224  WARN [Worker-49] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:06:28,839  WARN [Worker-49] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:06:28,839  WARN [Worker-49] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:04,051  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:04,052  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:04,059  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:04,059  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:07,387  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:07,387  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:07,397  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:07,397  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:08,101  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:08,101  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:17,155  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:17,155  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:17,162  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:17,162  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:17,551  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:17,551  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:36,624  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:36,624  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:36,632  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:36,632  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:37,020  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:37,020  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:42,624  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:42,624  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:42,634  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:42,634  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:43,015  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:43,015  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:48,863  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:48,863  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:48,874  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:48,874  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:07:49,254  WARN [Worker-37] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:07:49,254  WARN [Worker-37] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:09:37,351  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:09:37,351  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:09:37,358  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:09:37,358  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:09:37,732  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:09:37,732  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:11:17,974  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:11:17,974  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:11:17,981  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:11:17,981  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:11:18,397  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:11:18,397  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:12:00,385  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:12:00,385  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:12:00,392  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:12:00,392  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:12:00,769  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:12:00,771  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:12:21,582  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:12:21,582  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:12:21,589  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:12:21,589  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:12:21,926  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:12:21,926  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:12:32,101  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:12:32,101  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:12:32,108  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:12:32,108  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:12:32,449  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:12:32,449  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:12:49,172  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:12:49,172  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:12:49,179  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:12:49,179  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:12:49,550  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:12:49,550  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:17,429  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:17,429  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:17,436  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:17,436  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:17,777  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:17,777  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:26,451  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:26,451  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:26,464  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:26,464  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:26,864  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:26,864  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:33,245  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:33,246  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:33,253  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:33,253  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:33,648  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:33,648  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:52,597  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:52,597  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:52,604  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:52,604  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:52,983  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:52,983  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:57,100  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:57,100  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:57,107  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:57,107  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:13:57,470  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:13:57,470  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,913 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,914 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:03,914 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:14:05,301  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:14:05,301  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:14:05,308  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:14:05,308  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:14:05,697  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:14:05,697  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:14:24,885  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:14:24,886  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:14:24,892  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:14:24,893  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:14:25,277  WARN [Worker-47] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:14:25,277  WARN [Worker-47] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:14:58,181  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:14:58,181  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:14:58,188  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:14:58,188  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:14:58,596  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:14:58,596  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:16:17,095  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:16:17,095  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:16:17,114  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:16:17,114  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:16:17,517  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:16:17,517  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:16:28,586  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:16:28,587  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:16:28,593  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:16:28,593  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:16:28,955  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:16:28,956  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:16:46,013  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:16:46,013  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:16:46,020  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:16:46,020  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:16:46,425  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:16:46,425  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:17:06,794  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:17:06,795  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:17:06,801  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:17:06,801  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:17:07,118  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:17:07,118  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:17:25,608  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:17:25,608  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:17:25,615  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:17:25,615  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:17:26,268  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:17:26,268  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:17:38,446  WARN [Worker-54] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:17:38,446  WARN [Worker-54] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:17:38,453  WARN [Worker-54] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:17:38,453  WARN [Worker-54] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:17:39,060  WARN [Worker-54] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:17:39,060  WARN [Worker-54] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:17:51,282  WARN [Worker-55] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:17:51,282  WARN [Worker-55] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:17:51,289  WARN [Worker-55] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:17:51,289  WARN [Worker-55] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:19:14,514  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:19:14,514  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:19:14,521  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:19:14,521  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:19:59,186  WARN [Worker-54] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:19:59,187  WARN [Worker-54] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:19:59,194  WARN [Worker-54] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:19:59,194  WARN [Worker-54] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:20:12,640  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:20:12,640  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:20:12,647  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:20:12,647  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:20:23,022  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:20:23,022  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:20:23,029  WARN [Worker-52] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:20:23,029  WARN [Worker-52] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:20:24,771  WARN [Worker-53] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:20:24,771  WARN [Worker-53] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:20:24,778  WARN [Worker-53] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:20:24,778  WARN [Worker-53] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:20:54,131  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:20:54,131  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:20:54,142  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:20:54,142  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:22:04,584  WARN [Worker-53] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:22:04,584  WARN [Worker-53] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:22:04,591  WARN [Worker-53] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:22:04,591  WARN [Worker-53] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:22:14,313  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:22:14,313  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:22:14,320  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:22:14,320  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:22:17,569  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:22:17,569  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:22:17,576  WARN [Worker-50] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:22:17,576  WARN [Worker-50] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:22:25,209  WARN [Worker-54] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:22:25,210  WARN [Worker-54] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:22:25,216  WARN [Worker-54] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:22:25,217  WARN [Worker-54] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:22:59,814  WARN [Worker-53] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:22:59,814  WARN [Worker-53] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:22:59,823  WARN [Worker-53] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:22:59,824  WARN [Worker-53] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:24:54,905  WARN [Worker-56] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:24:54,905  WARN [Worker-56] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:24:54,917  WARN [Worker-56] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:24:54,917  WARN [Worker-56] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:25:44,687  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:25:44,687  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:25:44,693  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:25:44,694  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:25:47,957  WARN [Worker-53] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:25:47,957  WARN [Worker-53] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:25:47,964  WARN [Worker-53] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:25:47,964  WARN [Worker-53] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:26:42,610  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:26:42,610  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:26:42,617  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:26:42,617  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:27:08,988  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:27:08,988  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:27:08,995  WARN [Worker-51] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:27:08,995  WARN [Worker-51] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:27:45,921  WARN [Worker-58] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:27:45,922  WARN [Worker-58] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:27:45,969  WARN [Worker-58] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:27:45,969  WARN [Worker-58] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:29:06,032  WARN [Worker-58] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:29:06,032  WARN [Worker-58] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:29:06,038  WARN [Worker-58] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:29:06,038  WARN [Worker-58] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:29:53,517  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:29:53,518  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:29:53,524  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:29:53,524  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:30:05,551  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:30:05,551  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:30:05,558  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:30:05,558  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:30:36,684 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:30:36,684 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:30:36,684 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:30:44,619  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:30:44,619  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:30:44,626  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:30:44,626  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:30:58,264  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:30:58,264  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:30:58,271  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:30:58,271  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:31:09,834  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:31:09,834  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:31:09,841  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:31:09,841  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:32:45,588  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:32:45,588  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:32:45,595  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:32:45,595  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:32:58,081  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:32:58,081  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:32:58,113  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:32:58,114  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:33:22,012  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:33:22,012  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:33:22,020  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:33:22,020  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:34:00,947  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:34:00,947  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:34:00,954  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:34:00,954  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:34:07,258  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:34:07,258  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:34:07,265  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:34:07,265  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:34:14,268  WARN [Worker-62] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:34:14,268  WARN [Worker-62] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:34:14,275  WARN [Worker-62] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:34:14,275  WARN [Worker-62] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:34:19,374  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:34:19,374  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:34:19,383  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:34:19,383  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:34:24,182  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:34:24,183  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:34:24,189  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:34:24,189  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:35:49,503  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:35:49,503  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:35:49,511  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:35:49,511  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:35:56,591  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:35:56,591  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:35:56,599  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:35:56,600  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:08,346  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:08,346  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:08,356  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:08,356  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:11,463  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:11,463  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:11,469  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:11,469  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:19,014  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:19,014  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:19,022  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:19,022  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:29,819  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:29,819  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:29,826  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:29,826  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:30,575  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:30,576  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:33,883  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:33,884  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:33,890  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:33,890  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:34,285  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:34,285  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:52,883  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:52,883  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:52,890  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:52,890  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:36:53,581  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:36:53,582  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:37:13,549 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:37:13,552 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:37:13,552 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:37:13,552 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 20:37:19,789 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1911)
+	at scala.tools.refactoring.common.PimpedTrees$TreeMethodsForPositions.nameString(PimpedTrees.scala:346)
+	at scala.tools.refactoring.common.PimpedTrees$TreeMethodsForPositions.namePosition(PimpedTrees.scala:254)
+	at org.scalaide.core.internal.decorators.semantichighlighting.classifier.SafeSymbol$$anonfun$6.apply(SafeSymbol.scala:138)
+	at org.scalaide.core.internal.decorators.semantichighlighting.classifier.SafeSymbol$$anonfun$6.apply(SafeSymbol.scala:138)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:455)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2015-11-03 20:37:20,315  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:37:20,315  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:37:20,322  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:37:20,322  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:37:41,739  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:37:41,740  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:37:41,746  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:37:41,746  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:37:41,753  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:37:41,753  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:38:40,529  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:38:40,529  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:38:40,536  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:38:40,536  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:38:56,474  WARN [Worker-14] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:38:56,474  WARN [Worker-14] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:38:56,481  WARN [Worker-14] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:38:56,481  WARN [Worker-14] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:39:09,058  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:39:09,058  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:39:09,064  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:39:09,064  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:39:25,323  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:39:25,323  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:39:25,330  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:39:25,330  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:40:02,801  WARN [Worker-62] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:40:02,801  WARN [Worker-62] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:40:02,808  WARN [Worker-62] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:40:02,808  WARN [Worker-62] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:40:07,745  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:40:07,745  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:40:07,752  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:40:07,752  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:40:31,265  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:40:31,265  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:40:31,272  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:40:31,272  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:40:31,891  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:40:31,891  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:40:57,984  WARN [Worker-14] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:40:57,984  WARN [Worker-14] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:40:57,991  WARN [Worker-14] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:40:57,991  WARN [Worker-14] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:41:16,873  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:41:16,874  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:41:16,880  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:41:16,880  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:41:25,961  WARN [Worker-14] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:41:25,962  WARN [Worker-14] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:41:25,968  WARN [Worker-14] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:41:25,968  WARN [Worker-14] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:41:31,832  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:41:31,832  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:41:31,839  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:41:31,839  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:41:42,963  WARN [Worker-62] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:41:42,963  WARN [Worker-62] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:41:42,971  WARN [Worker-62] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:41:42,972  WARN [Worker-62] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:41:52,477  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:41:52,477  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:41:52,485  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:41:52,485  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:42:04,184  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:42:04,184  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:42:04,191  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:42:04,191  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:42:04,198  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:42:04,198  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:42:14,536  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:42:14,536  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:42:14,543  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:42:14,543  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:42:54,183  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:42:54,183  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:42:54,190  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:42:54,190  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:43:08,215  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:43:08,215  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:43:08,222  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:43:08,222  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:43:21,335  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:43:21,336  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:43:21,342  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:43:21,342  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:43:24,009  WARN [Worker-14] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:43:24,009  WARN [Worker-14] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:43:24,016  WARN [Worker-14] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:43:24,016  WARN [Worker-14] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:44:05,008  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:44:05,008  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:44:05,014  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:44:05,014  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:44:39,150  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:44:39,150  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:44:39,156  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:44:39,156  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:44:42,319  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:44:42,320  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:44:42,326  WARN [Worker-60] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:44:42,326  WARN [Worker-60] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:45:57,774  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:45:57,774  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:45:57,781  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:45:57,781  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:46:30,789  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:46:30,789  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:46:30,796  WARN [Worker-61] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:46:30,796  WARN [Worker-61] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:46:46,437  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:46:46,437  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:46:46,444  WARN [Worker-63] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:46:46,444  WARN [Worker-63] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:47:08,547  WARN [Worker-62] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:47:08,547  WARN [Worker-62] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:47:08,553  WARN [Worker-62] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:47:08,553  WARN [Worker-62] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:47:26,045  WARN [Worker-62] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:47:26,045  WARN [Worker-62] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:47:26,052  WARN [Worker-62] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:47:26,052  WARN [Worker-62] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:48:11,124  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:48:11,124  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:48:11,131  WARN [Worker-59] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:48:11,131  WARN [Worker-59] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:49:06,549  WARN [Worker-64] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:49:06,549  WARN [Worker-64] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 20:49:06,556  WARN [Worker-64] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 20:49:06,556  WARN [Worker-64] - ScalaProject - Project Lista1 runs on platform default installation.

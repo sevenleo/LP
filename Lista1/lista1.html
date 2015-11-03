@@ -1,0 +1,143 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Linguagens de Programação - Primeira Lista de Exercícios</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+    <link href="../css/bootstrap-responsive.min.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+ </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="../">Fabio Mascarenhas</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="../index.en.html">English</a></li>
+              <!--<li><a href="../blog">Blog</a></li>-->
+              <li><a href="../comp">Compiladores I</a></li>
+              <li><a href="../comp2">Compiladores II</a></li>
+              <li><a href="../lp">Linguagens de Programação</a></li>
+              <li><a href="../lua">Lua</a></li>
+              <li><a href="../java">Java</a></li>
+              <li><a href="../introc">C</a></li>
+           </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+
+<div class = "row-fluid">
+  <div class = "span1"></div>
+  <div class = "span10">
+  <h1 id="primeira_lista_de_exerccios">Primeira Lista de Exercícios</h1>
+
+<h2 id="introduo">Introdução</h2>
+
+<p>Baixe o <a href="lista1.zip">projeto da lista</a>, importe ele na Scala IDE (Eclipse), e implemente as funções correspondentes a cada questão do exercício. Depois envie apenas o arquivo <code>package.scala</code> com os fontes da sua implementação até <strong>03/11/2015</strong>, usando <a href="https://www.dropbox.com/request/nHXVKjfu7KIAFIgLmhQk">esse link</a>.</p>
+
+<h2 id="questo_1__tringulo_de_pascal">Questão 1 - Triângulo de Pascal</h2>
+
+<p>O <em>triângulo de Pascal</em> é uma representação gráfica dos coeficientes dos binômios <code>(x+y)^n</code>. Cada linha do triângulo lista os coeficientes do seu respectivo binônio (contado a partir de 0).</p>
+
+<p><img src="http://upload.wikimedia.org/math/6/8/7/68716cad06e288afb1ed5266c711b66b.png" alt="Triângulo de Pascal" /></p>
+
+<p>Os números nos lados do triângulo são sempre 1, e cada número do interior do triângulo é a soma dos dois números acima dele. Implemente uma função em Scala que calcula coeficientes do triângulo de Pascal, dada sua posição no triângulo, contada a partir de 0:</p>
+
+<pre><code>def pascal(col: Int, lin: Int): Int = ???</code></pre>
+
+<h2 id="questo_2__parnteses_balanceados">Questão 2 - Parênteses Balanceados</h2>
+
+<p>Escreva uma função que verifica se os parênteses presentes em uma lista de caracteres estão balanceados. Note que não basta contar o número de <code>(</code> e <code>)</code>, pois listas como <code>List(')','(')</code> e <code>List('(',')',')','(')</code> não são balanceadas.</p>
+
+<pre><code>def balanceado(l: List[Char]): Boolean = ???</code></pre>
+
+<p>Para facilitar o teste use a função <code>toList</code> de Scala, que converte uma string em uma lista de caracteres:</p>
+
+<pre><code>&gt; balanceado(&quot;so (um (teste) (da funcao) ) &quot;.toList)
+res0: Boolean = true</code></pre>
+
+<p>Use recursão final na sua resposta.</p>
+
+<h2 id="questo_3__quicksort">Questão 3 - Quicksort</h2>
+
+<p>A ideia do algoritmo de ordenação <em>quicksort</em> é bem simples: escolhemos um elemento <em>pivô</em> de uma lista (o primeiro elemento, por exemplo), e <em>particionamos</em> a lista usando esse pivô em duas listas. A primeira lista tem todos os elementos menores ou iguais ao pivô, e a segunda lista todos os elementos maiores que o pivô. Então basta ordenar essas duas listas e concatenar o resultado.</p>
+
+<p>Escreva a função <code>particao</code> que particiona uma lista dado um elemento pivô:</p>
+
+<pre><code>def particao(l: List[Int], pivo: Int): (List[Int], List[Int]) = ???</code></pre>
+
+<p>Escreva a função <code>quicksort</code> para ordenar uma lista, usando a função de partição que você escreveu:</p>
+
+<pre><code>def quicksort(l: List[Int]): List[Int] = ???</code></pre>
+
+<h2 id="questo_4__cr_acumulado">Questão 4 - CR acumulado</h2>
+
+<p>Podemos representar as notas de um aluno da UFRJ em dado semestre como uma lista de pares <em>(nota,creditos)</em>:</p>
+
+<pre><code>&gt; val sem1 = List((9.5,3),(7.3,4),(5.0,3),(4.0,4))
+sem1: List[(Double, Int)] = List((9.5,3), (7.3,4), (5.0,3), (4.0,4))</code></pre>
+
+<p>O coeficiente de rendimento (CR) de um aluno em determinado semestre é a média ponderada de suas notas, com o peso de cada uma sendo o número de créditos da matéria.</p>
+
+<p>Escreva a função <code>crSemestre</code> que recebe as notas do aluno no semestre e retorna seu CR para aquele semestre e o número de créditos que o aluno cursou:</p>
+
+<pre><code>def crSemestre(notas: List[(Double, Int)]): (Double, Int) = ???</code></pre>
+
+<p>As notas do aluno durante o curso podem ser representadas como uma lista de listas de notas para cada semestre. O <em>CR acumulado</em> de um aluno em determinado momento do curso é uma média ponderada dos CRs de cada semestre, com o peso sendo o número de créditos cursado naquele semestre.</p>
+
+<p>Escreva a função <code>crsAcumulados</code> que recebe a lista de listas de notas para cada semestre e retorna uma lista com o CR acumulado para o aluno após cada semestre (o CR acumulado após o primero semestre é o CR do primeiro semestre), assim como o total de créditos cursados até aquele momento.</p>
+
+<pre><code>def crsAcumulados(semestres: List[List[(Double, Int)]]): (List[Double], Int) = ???</code></pre>
+<hr />
+<p>Última Atualização: 2015-10-25 00:15</p>
+  </div>
+  <div class = "span1"></div>
+</div>
+
+    </div> <!-- /container -->
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41004174-1', 'ufrj.br');
+  ga('send', 'pageview');
+
+    </script>
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="../js/bootstrap.min.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,7 @@
+package lp
+
+object Lista1 extends App {
+  // escreva testes de suas funções aqui
+  println("Começando")
+  pascal(9,1)
+}

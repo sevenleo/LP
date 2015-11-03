@@ -1,0 +1,8 @@
+package object lp {
+  // defina as funções da sua resposta aqui
+  
+  
+  def crSemestre(notas: List[(Double, Int)]): (Double, Int) = ???
+  
+  
+}
