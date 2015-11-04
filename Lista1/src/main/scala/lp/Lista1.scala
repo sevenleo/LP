@@ -3,7 +3,7 @@ package lp
 object Lista1 extends App {
   // escreva testes de suas funções aqui
   
-  /* //teste pascal 
+   //teste pascal 
   println("_________________________________________________teste pascal")
   println("0 0 = 0?")
   println( pascal(0,0))
@@ -18,7 +18,7 @@ object Lista1 extends App {
   
   
   //teste balanceado
-    println("_________________________________________________parenteses")
+  println("_________________________________________________parenteses")
   var frase = "so (um (teste) (da funcao) )"
   println (frase+"\n  _ Balanceada? "+balanceado(frase.toList) )
   frase="abre( fecha)()()()()"
@@ -31,8 +31,13 @@ object Lista1 extends App {
   //quebrar frase aos poucos
   //despedacar(frase.toList)
    
-   */
+   
+  println("_________________________________________________particao")
+  //particao( List(1,2,4,5), 5 )
   
-  particao( List(1,2,4,5), 5 )
+  println("_________________________________________________sort")
   
+  
+  println("_________________________________________________cr")
+  crSemestre( List((10.0,5),(5.0,4)))
 }

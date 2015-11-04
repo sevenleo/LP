@@ -1426,3 +1426,832 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2015-11-03 20:49:06,549  WARN [Worker-64] - ScalaProject - Project Lista1 runs on platform default installation.
 2015-11-03 20:49:06,556  WARN [Worker-64] - ScalaProject - Project Lista1 has platform default sourceLevel.
 2015-11-03 20:49:06,556  WARN [Worker-64] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:29:03,831  WARN [Worker-3] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 22:29:03,834  WARN [Worker-3] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 22:29:03,832  WARN [Worker-2] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:29:03,850  WARN [Worker-2] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:29:03,852  WARN [Worker-2] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 22:29:03,853  WARN [Worker-2] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 22:29:03,854  WARN [Worker-2] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 22:29:03,854  WARN [Worker-2] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 22:29:03,855  WARN [Worker-2] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 22:29:03,855  WARN [Worker-2] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 22:29:08,477  WARN [Worker-2] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:29:08,477  WARN [Worker-2] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:29:08,550  WARN [Worker-2] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 22:29:08,550  WARN [Worker-2] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 22:29:08,590  WARN [Worker-2] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 22:29:08,591  WARN [Worker-2] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 22:29:08,622  WARN [Worker-2] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 22:29:08,623  WARN [Worker-2] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 22:29:08,978  WARN [Java indexing] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 22:29:08,979  WARN [Java indexing] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 22:29:08,985  WARN [Worker-2] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 22:29:08,986  WARN [Worker-2] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 22:29:08,990  WARN [main] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:29:08,992  WARN [main] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:29:13,989  WARN [Java indexing] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 22:29:13,990  WARN [Java indexing] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 22:29:17,722  WARN [Worker-2] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 22:29:17,723  WARN [Worker-2] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 22:29:19,450  WARN [Worker-2] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 22:29:19,451  WARN [Worker-2] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 22:29:42,430  WARN [Worker-2] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 22:29:42,431  WARN [Worker-2] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 22:29:42,609  WARN [Worker-2] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 22:29:42,609  WARN [Worker-2] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 22:29:42,677  WARN [Worker-2] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 22:29:42,678  WARN [Worker-2] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 22:29:52,188  WARN [Worker-2] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 22:29:52,188  WARN [Worker-2] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 22:29:52,286  WARN [Worker-2] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 22:29:52,286  WARN [Worker-2] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 22:29:52,385  WARN [Worker-2] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 22:29:52,385  WARN [Worker-2] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 22:29:58,982  WARN [Worker-2] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 22:29:58,983  WARN [Worker-2] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 22:29:59,044  WARN [Worker-2] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:29:59,045  WARN [Worker-2] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:29:59,073  WARN [Worker-2] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:29:59,074  WARN [Worker-2] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:30:18,872 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 22:30:18,874 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 22:30:18,877 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 22:30:19,360  WARN [Worker-6] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:30:19,361  WARN [Worker-6] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:30:19,430  WARN [Worker-6] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:30:19,430  WARN [Worker-6] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:30:48,299  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:30:48,300  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:30:48,358  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:30:48,359  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:31:05,417  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:31:05,418  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:31:05,485  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:31:05,485  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:31:10,988  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:31:10,988  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:31:11,418 ERROR [Worker-7] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-11-03 22:31:11,418 ERROR [Worker-7] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-11-03 22:31:11,418 ERROR [Worker-7] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-11-03 22:33:34,677 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 22:33:34,679 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 22:34:13,787  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:34:13,787  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:34:13,856  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:34:13,857  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:34:15,370  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:34:15,371  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:40:13,141  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:40:13,397  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:40:27,927  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:40:30,102  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:40:30,307  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:40:35,998  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:40:38,810  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:40:39,208  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:40:53,751  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:40:55,921  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:41:38,330  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:41:57,762  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:42:00,668  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:42:00,869  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:42:01,073  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:42:04,384  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:42:04,584  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:42:04,788  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:42:05,886  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:42:05,886  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:42:05,954  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:42:05,954  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:44:27,776  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:44:29,276  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:44:37,904  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:44:37,904  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:44:37,937  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:44:37,937  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:45:23,836  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:45:23,836  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:45:23,866  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:45:23,866  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:46:24,894  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:46:24,895  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:46:24,971  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:46:24,971  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:46:28,759  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:46:28,760  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:46:28,790  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:46:28,790  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:46:58,605  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:46:58,809  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:47:02,290  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:47:02,494  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:47:02,698  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:47:08,460  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:47:08,461  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:47:08,538  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:47:08,539  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:47:24,927  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:47:24,927  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:47:24,982  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:47:24,983  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:47:57,422  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:47:57,422  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:47:57,452  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:47:57,453  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:48:15,299  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:48:15,299  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:48:15,343  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:48:15,344  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:48:22,067  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:48:22,272  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:48:35,986  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:48:39,956  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:48:40,160  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:48:41,233  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:48:41,234  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:48:41,268  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:48:41,269  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:49:00,228  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:49:00,229  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:49:00,291  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:49:00,292  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:49:14,954  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:49:14,954  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:49:15,014  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:49:15,015  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:49:18,640  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:49:18,640  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:49:18,722  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:49:18,723  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:49:50,116  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:49:50,117  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:49:50,176  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:49:50,177  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:52:26,396  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:52:31,394  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:52:31,394  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:52:31,484  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:52:31,484  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:53:12,110  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:53:14,412  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:53:14,412  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:53:14,461  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:53:14,461  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:53:21,078  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:53:21,078  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:53:21,115  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:53:21,115  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:53:25,224  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:53:25,225  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:53:25,286  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:53:25,287  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:53:40,003  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:53:40,004  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:53:40,058  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:53:40,058  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:53:48,415  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:53:48,416  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:53:48,466  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:53:48,467  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:54:45,371  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:54:45,371  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:54:45,463  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:54:45,463  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:54:52,830  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:54:52,831  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:54:52,869  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:54:52,870  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:55:25,999  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:55:26,000  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:55:26,054  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:55:26,055  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:55:28,417  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:55:28,417  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:55:28,550  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:55:28,551  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:55:37,139  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:55:37,140  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:55:37,221  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:55:37,221  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:55:41,947  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:55:41,948  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:55:41,982  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:55:41,982  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:55:45,894  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:55:45,894  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:55:45,928  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:55:45,929  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:55:56,330  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:55:56,331  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:55:56,381  WARN [Worker-0] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:55:56,382  WARN [Worker-0] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:56:04,006  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:56:04,007  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:56:04,085  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:56:04,086  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:56:28,600  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:56:33,880  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:56:37,434 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 22:56:37,434 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 22:56:37,435 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 22:56:38,511  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:56:38,511  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:56:38,539  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:56:38,540  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:56:47,548  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:56:47,756  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:56:48,585  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:56:48,585  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:56:48,613  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:56:48,614  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:56:56,847  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:56:57,055  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:56:57,319  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 22:56:57,916  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:56:57,917  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:56:57,982  WARN [Worker-20] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:56:57,982  WARN [Worker-20] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:58:42,203  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:58:42,204  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:58:42,331  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:58:42,335  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:59:22,878  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:59:22,878  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 22:59:22,923  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 22:59:22,924  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:00:02,092  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:00:02,895  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:00:02,896  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:00:02,930  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:00:02,931  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:00:19,222  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:00:19,426  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:00:19,629  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:00:23,350  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:00:23,351  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:00:23,382  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:00:23,382  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:00:27,194  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:00:27,195  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:00:27,250  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:00:27,251  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:00:35,521  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:00:35,521  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:00:35,554  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:00:35,555  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:00:48,626  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:00:48,627  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:00:48,678  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:00:48,678  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:00:53,671  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:00:53,671  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:01:10,450  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:01:10,451  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:01:10,496  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:01:10,497  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:02:07,538  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:02:07,539  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:02:07,582  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:02:07,583  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:02:24,373  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:02:24,374  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:02:24,438  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:02:24,439  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:02:27,955  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:02:27,955  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:02:42,447 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:03:22,969  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:03:23,376  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:03:24,796  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:03:30,285  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:03:32,684  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:03:32,888  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:03:34,877  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:03:34,877  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:03:34,907  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:03:34,908  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:03:48,360  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:03:48,360  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:03:48,465  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:03:48,466  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:04:01,359  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:04:01,360  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:04:01,460  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:04:01,465  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:04:46,835  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:04:46,836  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:04:46,923  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:04:46,923  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:04:55,097  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:04:55,302  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:04:55,505  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:05:07,037  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:05:07,038  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:05:07,096  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:05:07,097  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:05:07,176  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:05:07,179  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:05:14,815  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:05:14,816  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:05:14,851  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:05:14,851  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:05:21,253  WARN [Worker-19] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:05:21,255  WARN [Worker-19] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:05:37,334  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:05:37,744  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:05:37,745  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:05:37,781  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:05:37,782  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:06:45,161  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:06:45,161  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:06:45,243  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:06:45,244  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:07:04,302  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:07:26,718  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:07:26,720  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:07:26,754  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:07:26,755  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:07:30,289  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:07:53,023  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:07:53,229  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:07:53,437  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:07:55,137  WARN [Worker-25] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:07:55,137  WARN [Worker-25] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:07:55,197  WARN [Worker-25] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:07:55,198  WARN [Worker-25] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:08:16,499  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:08:16,499  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:08:16,559  WARN [Worker-23] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:08:16,560  WARN [Worker-23] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:08:36,246  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:08:39,450  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:08:39,451  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:08:39,496  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:08:39,497  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:08:46,469  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:08:46,470  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:08:46,551  WARN [Worker-18] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:08:46,552  WARN [Worker-18] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:08:50,185  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:08:51,514  WARN [Worker-25] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:08:51,514  WARN [Worker-25] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:08:51,548  WARN [Worker-25] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:08:51,549  WARN [Worker-25] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:08:58,557  WARN [Worker-25] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:08:58,558  WARN [Worker-25] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:08:58,606  WARN [Worker-25] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:08:58,606  WARN [Worker-25] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:09:05,890  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:09:06,824  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:09:06,824  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:09:06,870  WARN [Worker-24] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:09:06,870  WARN [Worker-24] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:11:08,722  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:11:08,926  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:11:09,129  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:11:12,162  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:11:12,163  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:11:12,231  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:11:12,231  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:11:17,576  WARN [Worker-27] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:11:17,576  WARN [Worker-27] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:11:17,646  WARN [Worker-27] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:11:17,647  WARN [Worker-27] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:12:15,377  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:12:15,378  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:12:15,465  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:12:15,465  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:12:18,334  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:12:18,335  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:12:30,086  WARN [Worker-27] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:12:30,086  WARN [Worker-27] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:12:30,148  WARN [Worker-27] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:12:30,148  WARN [Worker-27] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:12:42,176  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:12:43,888  WARN [Worker-28] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:12:43,889  WARN [Worker-28] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:12:43,949  WARN [Worker-28] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:12:43,950  WARN [Worker-28] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:12:47,172  WARN [Worker-28] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:12:47,173  WARN [Worker-28] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:13:05,458  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:13:24,969  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:13:36,350  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:13:36,551  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:13:59,352  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:13:59,883  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:14:13,171  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:14:13,171  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:14:13,211  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:14:13,212  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:14:27,667  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:14:27,668  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:14:27,699  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:14:27,700  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:14:48,069  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:14:48,775  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:14:48,776  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:14:48,808  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:14:48,809  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:14:51,763  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:14:51,763  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:15:04,129  WARN [Worker-27] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:15:04,130  WARN [Worker-27] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:15:04,169  WARN [Worker-27] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:15:04,170  WARN [Worker-27] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:15:07,738  WARN [Worker-27] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:15:07,739  WARN [Worker-27] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:15:15,176  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:15:17,129  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:15:17,131  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:15:17,163  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:15:17,164  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:15:22,044  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:15:22,044  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:15:22,084  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:15:22,084  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:15:25,347  WARN [Worker-21] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:15:25,347  WARN [Worker-21] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:15:45,486  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:15:45,688  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:15:55,052  WARN [Worker-29] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:15:55,052  WARN [Worker-29] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:15:55,127  WARN [Worker-29] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:15:55,147  WARN [Worker-29] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:17:43,310  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:17:43,515  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:17:44,586  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:17:44,587  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:17:44,621  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:17:44,621  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:18:09,590  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:18:09,795  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:18:09,988  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:18:09,988  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:18:10,016  WARN [Worker-31] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:18:10,016  WARN [Worker-31] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:18:12,559 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:18:12,560 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:18:12,560 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:18:47,464  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:18:47,464  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:18:47,526  WARN [Worker-26] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:18:47,527  WARN [Worker-26] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:18:50,496  WARN [Worker-28] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:18:50,497  WARN [Worker-28] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:18:50,565  WARN [Worker-28] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:18:50,565  WARN [Worker-28] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:18:58,767  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:18:58,767  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:18:58,803  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:18:58,804  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:19:06,543  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:19:06,543  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:19:06,572  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:19:06,573  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:19:07,042 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:19:07,043 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:19:07,043 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:19:51,706  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:19:51,707  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:19:51,757  WARN [Worker-32] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:19:51,757  WARN [Worker-32] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:21:24,599  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:21:25,031  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:21:28,749  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:21:29,474  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:21:32,003  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:21:32,004  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:21:32,082  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:21:32,083  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:21:42,642  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:21:44,343  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:21:48,959  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:21:48,960  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:21:48,990  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:21:48,998  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:22:22,025  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:22:22,230  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:24:02,062  WARN [Worker-35] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:24:02,065  WARN [Worker-35] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:24:02,127  WARN [Worker-35] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:24:02,128  WARN [Worker-35] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:24:24,404  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:24:24,404  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:24:24,437  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:24:24,438  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:24:36,471  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:24:40,403  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:24:41,169  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:24:45,072  WARN [Worker-36] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:24:45,073  WARN [Worker-36] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:24:45,130  WARN [Worker-36] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:24:45,130  WARN [Worker-36] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:25:03,176  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:25:10,556  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:25:10,964  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:25:12,091  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:25:12,091  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:25:12,176  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:25:12,176  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:25:46,511  WARN [Worker-36] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:25:46,511  WARN [Worker-36] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:25:46,541  WARN [Worker-36] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:25:46,542  WARN [Worker-36] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:25:58,003  WARN [Worker-35] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:25:58,004  WARN [Worker-35] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:25:58,074  WARN [Worker-35] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:25:58,075  WARN [Worker-35] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:26:58,364  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:27:03,020  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:27:03,021  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:27:03,051  WARN [Worker-33] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:27:03,052  WARN [Worker-33] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:27:33,592  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:27:33,592  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:27:33,637  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:27:33,637  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:27:39,572  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:27:39,573  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:27:39,608  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:27:39,609  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:27:58,220  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:27:58,426  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:28:02,333  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:28:02,333  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:28:02,371  WARN [Worker-34] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:28:02,371  WARN [Worker-34] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:28:25,520  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:28:32,950  WARN [Worker-35] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:28:32,951  WARN [Worker-35] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:28:32,994  WARN [Worker-35] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:28:32,994  WARN [Worker-35] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:30:06,313  WARN [main] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:30:06,315  WARN [main] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:30:06,326  WARN [main] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:30:06,326  WARN [main] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:30:17,495  WARN [main] - ScalaProject - Project Aula01 has platform default sourceLevel.
+2015-11-03 23:30:17,497  WARN [main] - ScalaProject - Project Aula01 runs on platform default installation.
+2015-11-03 23:30:17,507  WARN [main] - ScalaProject - Project Aula02 has platform default sourceLevel.
+2015-11-03 23:30:17,511  WARN [main] - ScalaProject - Project Aula02 runs on platform default installation.
+2015-11-03 23:30:17,523  WARN [main] - ScalaProject - Project Aula03 has platform default sourceLevel.
+2015-11-03 23:30:17,524  WARN [main] - ScalaProject - Project Aula03 runs on platform default installation.
+2015-11-03 23:35:50,412 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:35:50,413 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:35:50,413 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:35:51,851 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:35:51,854 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:35:51,855 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:35:51,870 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:35:51,870 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:35:51,870 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:35:51,876 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:35:59,553  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:35:59,761  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:35:59,961  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:36:18,880  WARN [Worker-1] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:36:18,880  WARN [Worker-1] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:36:18,969  WARN [Worker-1] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:36:18,969  WARN [Worker-1] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:36:20,911  WARN [Worker-1] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:36:20,912  WARN [Worker-1] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:36:36,346  WARN [Worker-6] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:36:36,346  WARN [Worker-6] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:36:36,404  WARN [Worker-6] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:36:36,405  WARN [Worker-6] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:36:42,955  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:36:46,907  WARN [Worker-1] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:36:46,909  WARN [Worker-1] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:36:46,939  WARN [Worker-1] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:36:46,939  WARN [Worker-1] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:36:54,574  WARN [Worker-1] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:36:54,574  WARN [Worker-1] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:37:08,479  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:37:08,685  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:37:08,897  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:37:15,249  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:37:15,454  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:37:15,660  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:37:19,392  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:37:19,392  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:37:19,499  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:37:19,502  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:37:20,797  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:37:21,001  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:37:23,405  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:37:23,405  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:37:24,487  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:37:24,488  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:37:24,567  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:37:24,567  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:37:25,028 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:37:25,030 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:37:29,100  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:37:29,101  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:37:30,166  WARN [Worker-8] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:37:30,166  WARN [Worker-8] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:37:30,192  WARN [Worker-8] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:37:30,192  WARN [Worker-8] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:37:36,550  WARN [Worker-8] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:37:36,550  WARN [Worker-8] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:38:49,725 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,725 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,725 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,726 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,727 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,727 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,728 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,728 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,729 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,729 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,730 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,730 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,731 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,731 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,731 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,737 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,737 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,737 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,738 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,739 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,739 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,740 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,740 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,740 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,740 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,740 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,741 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,741 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,742 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,742 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,743 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,743 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,743 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,744 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,745 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,745 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,746 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,746 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,746 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,747 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,747 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,747 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,748 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,748 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,749 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,750 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,750 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,750 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,751 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,751 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,751 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,752 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,753 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,753 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,754 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,754 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,754 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,755 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,755 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,755 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,756 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,756 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,757 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,758 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,758 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,758 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,759 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,759 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,759 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,760 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,761 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,761 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,761 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,762 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,762 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,763 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,763 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,763 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,764 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,764 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,764 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,765 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,765 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,765 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,766 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,766 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,767 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,767 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,768 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,768 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,769 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,769 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,769 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,770 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,770 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,770 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,771 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,772 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,772 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,773 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,773 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,773 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,774 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,774 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,774 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,775 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,775 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,775 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,776 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,776 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,776 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,777 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,777 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,777 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,778 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,778 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,778 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,779 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,779 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,780 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,780 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,781 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,781 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,782 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,783 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:49,784 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:38:51,365  WARN [Worker-6] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:38:51,366  WARN [Worker-6] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:38:51,405  WARN [Worker-6] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:38:51,406  WARN [Worker-6] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:38:58,001  WARN [Worker-6] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:38:58,002  WARN [Worker-6] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:38:58,085  WARN [Worker-6] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:38:58,086  WARN [Worker-6] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:39:14,622  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:39:14,623  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:39:14,654  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:39:14,654  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:39:17,544  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:39:17,544  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:39:28,153  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:39:28,154  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:39:28,187  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:39:28,187  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:39:30,295  WARN [Worker-3] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:39:30,296  WARN [Worker-3] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:39:44,166  WARN [Worker-1] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:39:44,167  WARN [Worker-1] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:39:44,238  WARN [Worker-1] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:39:44,239  WARN [Worker-1] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:39:44,311  WARN [Worker-1] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:39:44,311  WARN [Worker-1] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:39:58,655  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:39:58,655  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:39:58,677  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:39:58,678  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:40:00,984  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:40:00,984  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:40:01,359 ERROR [Worker-7] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-11-03 23:40:01,359 ERROR [Worker-7] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-11-03 23:40:01,359 ERROR [Worker-7] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-11-03 23:40:25,969  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-03 23:40:40,244  WARN [Worker-8] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:40:40,245  WARN [Worker-8] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:40:40,286  WARN [Worker-8] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:40:40,286  WARN [Worker-8] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:41:33,303  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:41:33,304  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:41:33,337  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:41:33,337  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:42:01,366  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:42:01,367  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:42:01,423  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:42:01,423  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:42:11,003  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:42:11,005  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:42:11,037  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:42:11,038  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:42:13,365  WARN [Worker-7] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:42:13,366  WARN [Worker-7] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:42:19,826  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:42:19,826  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:42:19,867  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:42:19,868  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:42:22,265  WARN [Worker-5] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:42:22,265  WARN [Worker-5] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:42:29,347  WARN [Worker-8] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:42:29,348  WARN [Worker-8] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:42:29,419  WARN [Worker-8] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:42:29,424  WARN [Worker-8] - ScalaProject - Project Lista1 runs on platform default installation.
+2015-11-03 23:42:31,912  WARN [Worker-8] - ScalaProject - Project Lista1 has platform default sourceLevel.
+2015-11-03 23:42:31,913  WARN [Worker-8] - ScalaProject - Project Lista1 runs on platform default installation.

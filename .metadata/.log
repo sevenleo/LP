@@ -186,3 +186,58 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 	at scala.util.control.Breaks.breakable(Breaks.scala:38)
 	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
 	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+!SESSION 2015-11-03 22:28:41.698 -----------------------------------------------
+eclipse.buildId=4.2.0-vfinal-2015-09-25T11:10:29Z-Typesafe
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-11-03 22:28:47.113
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.osgi 2 0 2015-11-03 22:29:02.642
+!MESSAGE While loading class "org.scalaide.core.internal.containers.ScalaLibraryClasspathContainerInitializer", thread "Thread[Worker-2,5,main]" timed out waiting (5001ms) for thread "Thread[Worker-3,5,main]" to finish starting bundle "org.scala-ide.sdt.core_4.2.0.vfinal-2_11-201509251052-b2cb96d [309]". To avoid deadlock, thread "Thread[Worker-2,5,main]" is proceeding but "org.scalaide.core.internal.containers.ScalaLibraryClasspathContainerInitializer" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; osgi.identity="org.scala-ide.sdt.core"; type="osgi.bundle"; version:Version="4.2.0.vfinal-2_11-201509251052-b2cb96d"; singleton:="true" [id=309] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:329)
+	at org.eclipse.osgi.container.Module.start(Module.java:389)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:454)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:531)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:568)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:174)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.jdt.core.JavaCore.computeClasspathContainerInitializer(JavaCore.java:3294)
+	at org.eclipse.jdt.core.JavaCore.getClasspathContainerInitializer(JavaCore.java:3270)
+	at org.eclipse.jdt.internal.core.JavaModelManager.initializeContainer(JavaModelManager.java:2883)
+	at org.eclipse.jdt.internal.core.JavaModelManager$9.run(JavaModelManager.java:2808)
+	at org.eclipse.jdt.internal.core.JavaModelManager.initializeAllContainers(JavaModelManager.java:2846)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getClasspathContainer(JavaModelManager.java:1932)
+	at org.eclipse.jdt.core.JavaCore.getClasspathContainer(JavaCore.java:3247)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:2693)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:2857)
+	at org.eclipse.jdt.internal.core.ClasspathChange.generateDelta(ClasspathChange.java:221)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2065)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:378)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1498)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2322)
+	at org.eclipse.core.internal.events.NotificationManager$NotifyJob.run(NotificationManager.java:40)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.scala-ide.sdt.core 1 0 2015-11-03 22:58:42.832
+!MESSAGE Timeout while resolving hyperlink in /home/leonardo/ufrj/LP/Lista1/src/main/scala/lp/package.scala at: offset: 2018, length: 0
